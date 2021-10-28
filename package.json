@@ -4,7 +4,8 @@
   "description": "basic express.js server template",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "Gabriel Ladzaretti",
   "license": "MIT",
